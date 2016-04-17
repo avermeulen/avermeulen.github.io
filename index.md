@@ -1,10 +1,22 @@
-# thought stream
-
-## upcoming
-* MySQL Stored procedures & NodeJS
-* Data modelling using MongoDB
-* Async flow control options for NodeJs
-* Exploring Generators
-* To thunk or not to thunk?
-* ES6 explored
-* The promised land...
+[
+{
+    name : "MySQL Stored procedures & NodeJS"
+},
+{
+    name : "Data modelling using MongoDB"
+},
+{
+    name : "Async flow control options for NodeJs"
+},
+{
+    name : "Exploring Generators"
+},
+{
+    name : "To thunk or not to thunk?"
+},
+{
+    name : "ES6 explored"
+},
+{
+    name : "The promised land..."
+}]
