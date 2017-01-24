@@ -17,13 +17,7 @@ layout: default
     {% endfor %}
   </ul>
 
-  <h2>Upcoming</h2>
-
-  <ul>
-      {% for upcoming in site.data.upcoming %}
-      <li>{{ upcoming.name }}</li>
-      {% endfor %}
-  </ul>
+  
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
